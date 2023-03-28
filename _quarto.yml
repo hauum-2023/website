@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "website"
+  favicon: "img/hauum-logo.png"
+  sidebar:
+    logo: "img/hauum-logo.png"
+    style: "docked"
+    search: true
+    contents: 
+      - section: "Information"
+        contents: 
+        - about.qmd
+
+format:
+  html:
+    highlight-style: a11y
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
