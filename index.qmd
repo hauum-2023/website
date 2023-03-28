@@ -2,8 +2,32 @@
 title: "HAUUM 2023"
 ---
 
+<center)
 This website links resources used for the Erasmus Plus collaboration between [Harper Adams University](https://www.harper-adams.ac.uk/) and [University of Mpumalanga](https://www.ump.ac.za/).
 
 ![Bourke's Luck Potholes](img/potholes.jpg){width="300px"}
+</center>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## R Slides
+
+- [Day 01 Stats skills overview, R Stats Bootcamp](files/Day-01-R-Bootcamp.pptx)
+
+- [Day 02 R basics, R Stats Bootcamp continued](files/Day-02-R-Bootcamp.pptx)
+
+- [Day 03 Graduate stats skills, R Stats Bootcamp continued](files/Day-03-R-Bootcamp.pptx)
+
+## Files
+
+[Template script](files/template_script.R)
+
+![](img/Encephalartos_lanatus.jpeg){width="30px"} [Mem_data](files/Mem_data/BOT A.xlsx)
+
+## Links
+
+- [R Stats Bootcamp: intro to R and simple stats]()
+
+- [EDA: a full MSc stats course]()
+
+- [Harper Data Science (R Users Group)]()
+
+- [c7081: intro to machine learning course]()
