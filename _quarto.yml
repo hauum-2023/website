@@ -13,6 +13,7 @@ website:
       - section: "Information"
         contents: 
         - about.qmd
+        - index.qmd
 
 format:
   html:
