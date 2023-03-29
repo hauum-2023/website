@@ -2,10 +2,11 @@
 title: "HAUUM 2023"
 ---
 
-<center)
+<center>
+
 This website links resources used for the Erasmus Plus collaboration between [Harper Adams University](https://www.harper-adams.ac.uk/) and [University of Mpumalanga](https://www.ump.ac.za/).
 
-![Bourke's Luck Potholes](img/potholes.jpg){width="300px"}
+![Bourke's Luck Potholes](img/potholes.jpg){width="250px"}
 </center>
 
 ## R Slides
