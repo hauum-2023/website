@@ -31,10 +31,10 @@ This website links resources used for the Erasmus Plus collaboration between [Ha
 
 ## Links
 
-- [R Stats Bootcamp: intro to R and simple stats]()
+- [R Stats Bootcamp: intro to R and simple stats](https://rstats-bootcamp.github.io/website/)
 
-- [EDA: a full MSc stats course]()
+- [EDA: a full MSc stats course](https://c7041-2022.github.io/website/)
 
-- [Harper Data Science (R Users Group)]()
+- [Harper Data Science (R Users Group)](https://harper-data-science.github.io/website/)
 
-- [c7081: intro to machine learning course]()
+- [c7081: intro to machine learning course](https://c7081-2022.github.io/website/)
