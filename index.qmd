@@ -16,11 +16,17 @@ This website links resources used for the Erasmus Plus collaboration between [Ha
 
 - [Day 03 Graduate stats skills, R Stats Bootcamp continued](files/Day-03-R-Bootcamp.pptx)
 
+- [Day 04 Graduate stats skills, R Stats Bootcamp, full stats course begin](files/Day-04-R-Bootcamp.pptx)
+
 ## Files
 
 [Template script](files/template_script.R)
 
-![](img/Encephalartos_lanatus.jpeg){width="30px"} [Mem_data](files/Mem_data/BOT A.xlsx)
+[Bootcamp 07 script](files/bootcamp07/bootcamp07.R)
+
+![](img/Encephalartos_lanatus.jpeg){width="50px"} [Mem_data file](files/Mem_data/BOT A.xlsx) ::: [Mem_data script](files/Mem_data/Mem_data.R)
+
+[Bootcamp 11 script](files/bootcamp11/bootcamp11.R)
 
 ## Links
 
