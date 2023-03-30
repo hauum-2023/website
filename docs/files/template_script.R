@@ -7,7 +7,7 @@
 
 ## CONTENTS ####
 ## 00 Setup
-## 01 <YOUR TOPIC 1>  
+## 01 <YOUR TOPIC 1>
 ## 02 <YOUR TOPIC 2>  
 ## 03 <YOUR TOPIC 3>
 ## etc.

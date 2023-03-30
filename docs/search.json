@@ -18,7 +18,7 @@
     "href": "index.html#r-slides",
     "title": "HAUUM 2023",
     "section": "R Slides",
-    "text": "R Slides\n\nDay 01 Stats skills overview, R Stats Bootcamp\nDay 02 R basics, R Stats Bootcamp continued\nDay 03 Graduate stats skills, R Stats Bootcamp continued\nDay 04 Graduate stats skills, R Stats Bootcamp, full stats course begin"
+    "text": "R Slides\n\nDay 01 Stats skills overview, R Stats Bootcamp\nDay 02 R basics, R Stats Bootcamp continued\nDay 03 Graduate stats skills, R Stats Bootcamp continued\nDay 04 Graduate stats skills, R Stats Bootcamp\nDay 05 Begin EDA Experimental Design and Analysis\nEDA intro\nEDA graphs 1"
   },
   {
     "objectID": "index.html#files",
@@ -28,10 +28,10 @@
     "text": "Files\nTemplate script\nBootcamp 07 script\n Mem_data file ::: Mem_data script\nBootcamp 11 script"
   },
   {
-    "objectID": "index.html#links",
-    "href": "index.html#links",
+    "objectID": "index.html#links-and-info",
+    "href": "index.html#links-and-info",
     "title": "HAUUM 2023",
-    "section": "Links",
-    "text": "Links\n\nR Stats Bootcamp: intro to R and simple stats\nEDA: a full MSc stats course\nHarper Data Science (R Users Group)\nc7081: intro to machine learning course"
+    "section": "Links and info",
+    "text": "Links and info\n\nWe also a have a friendly community Slack channel - go over and introduce yourself and say hi! (please join with your full name e.g. “Ed Harris”)\nTo received emails about our R Users Group, HARUG!, email Ed Harris -&gt; eharris@harper-adams.ac.uk with the subject “JOIN HARUG PLEASE”. Currently HARUG! meets Wednesday 4-5pm UK time via Teams on a variety of topics.\nR Stats Bootcamp: intro to R and simple stats\nEDA: a full MSc stats course\nHarper Data Science (R Users Group)\nc7081: intro to machine learning course"
   }
 ]

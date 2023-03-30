@@ -25,7 +25,7 @@ getwd()
 
 # this is my own folder location - yours will be different!!
 # C:\Dropbox\git-hauum-2023\website\files\Mem_data
-setwd(r'(C:\Dropbox\git-hauum-2023\website\files\Mem_data)')
+# setwd(r'(C:\Dropbox\git-hauum-2023\website\files\Mem_data)')
 
 ## 03 Read in the data ####
 # Read file
@@ -39,11 +39,20 @@ head(cycads)
 hist(cycads$Zn)
 
 # better graph
-hist(cycads$Zn,
+x <- hist(cycads$Zn,
      main = '',
-     ylab = 'Count',
+     ylab = '%',
      xlab = 'Zinc (mg/Kg)',
-     col = 'gray70')
+     col = 'goldenrod',
+     freq = F)
+
+# graph with %
+
+barplot(x$counts / sum(x$counts),
+        main = '',
+        ylab = '%',
+        xlab = 'Zinc (mg/Kg)',
+        col = 'goldenrod')
 
 ## 05 Graph 02 boxplot() Zn ~ Area ####
 

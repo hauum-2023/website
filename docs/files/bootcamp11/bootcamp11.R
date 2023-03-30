@@ -1,7 +1,7 @@
 ## HEADER ####
-## Who: <YOUR NAME>
-## What: <YOUR TOPIC e.g. Bootcamp page xx)
-## Last edited: <DATE TODAY in yyyy-mm-dd format)
+## Who: Ed Harris
+## What: Bootcamp 11
+## Last edited: 2023-03-29
 ####
 
 
@@ -56,7 +56,7 @@ mysam <- c(2.06, 1.77, 1.9, 1.94, 1.91, 1.83,
            2.05, 2.19, 1.64, 1.81, 1.83)
 
 boxplot(mysam, 
-        main = "Is your sample population different from the dashed line?")
+        main = "Is your sample population different \nfrom the dashed line?")
 
 points(x = jitter(rep(1,15), amount = .1),
        y = mysam,
@@ -276,6 +276,10 @@ qqPlot(treegrowth$height[treegrowth$density == "high"])
 # x = height ~ density
 # or we can set our samples to x and y respectively
 # x = height[low], y = height[high]
-
+boxplot(formula = height ~ density, 
+        data = treegrowth)
 t.test(formula = height ~ density, 
        data = treegrowth)
+
+
+

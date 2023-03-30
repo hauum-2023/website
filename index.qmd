@@ -17,7 +17,13 @@ This website links resources used for the Erasmus Plus collaboration between [Ha
 
 - [Day 03 Graduate stats skills, R Stats Bootcamp continued](files/Day-03-R-Bootcamp.pptx)
 
-- [Day 04 Graduate stats skills, R Stats Bootcamp, full stats course begin](files/Day-04-R-Bootcamp.pptx)
+- [Day 04 Graduate stats skills, R Stats Bootcamp](files/Day-04-R-Bootcamp.pptx)
+
+- [Day 05 Begin EDA Experimental Design and Analysis](files/Day-05-R-Bootcamp.pptx)
+
+- [EDA intro](files/00-EDA-module-overview.pptx)
+
+- [EDA graphs 1](files/02-EDA-graphics-1.pptx)
 
 ## Files
 
@@ -29,7 +35,11 @@ This website links resources used for the Erasmus Plus collaboration between [Ha
 
 [Bootcamp 11 script](files/bootcamp11/bootcamp11.R)
 
-## Links
+## Links and info
+
+- We also a have a [friendly community Slack channel](https://join.slack.com/t/ha-eda-party/shared_invite/zt-w19od3dz-6bjo~dTC_GQeSUUv3B8XzQ) - go over and introduce yourself and say hi! (please join with your full name e.g. "Ed Harris")
+
+- To received emails about [our R Users Group, HARUG!](https://harper-data-science.github.io/website/), email Ed Harris -> eharris@harper-adams.ac.uk with the subject "JOIN HARUG PLEASE".  Currently HARUG! meets Wednesday 4-5pm UK time via Teams on a variety of topics.
 
 - [R Stats Bootcamp: intro to R and simple stats](https://rstats-bootcamp.github.io/website/)
 
